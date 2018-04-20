@@ -1,0 +1,41 @@
+Command	Read Access	Write Access	Description
+AO_01	TRUE	TRUE	[value]
+AO_02	TRUE	TRUE	[value]
+AO_03	TRUE	TRUE	[value]
+AO_04	TRUE	TRUE	[value]
+MANUFACTURER	TRUE	FALSE	manufacturer
+MODEL	TRUE	FALSE	device model / type
+NCHAN	TRUE	FALSE	number of channels
+SERIAL	TRUE	FALSE	serial number
+SIG:clk_count:COUNT	TRUE	FALSE	clock count
+SIG:clk_count:FREQ	TRUE	FALSE	clock frequency
+SIG:sample_count:COUNT	TRUE	FALSE	sample count
+SIG:sample_count:FREQ	TRUE	FALSE	sample frequency
+bank_mask	TRUE	TRUE	enabled channels
+bufferlen	TRUE	TRUE	kernel buffer length
+clk	TRUE	TRUE	clk=EXT,dX,edge  eg clk=1,0,0 external d0 FALLING, clk=0,0,0 internal
+clk_count	TRUE	FALSE	32 bit clock count
+clk_counter_src	TRUE	TRUE	[d0|d8] clock counter source "d8" is internal
+clkdiv	TRUE	TRUE	clock divider
+data32	TRUE	TRUE	[0|1] data size 16bit/2byte or 32bit/4byte
+event0	TRUE	TRUE	event0=ENABLE,dX,edge
+event1	TRUE	TRUE	event1=ENABLE,dX,edge 
+hitide	TRUE	FALSE	fifo hitide setting
+lotide	TRUE	TRUE	fifo lotide setting
+modalias	TRUE	FALSE	kernel internal module id
+module_name	TRUE	FALSE	kernel module name
+module_type	TRUE	FALSE	fpga type code
+nbuffers	TRUE	FALSE	number of kernel buffers
+playloop_cursor	TRUE	TRUE	awg current position
+playloop_length	TRUE	TRUE	[length] awg pattern length
+run	TRUE	FALSE	aggregate from sites
+sample_count	TRUE	FALSE	32 bit sample_count
+shot	TRUE	TRUE	shot number 
+simulate	TRUE	TRUE	[0|1] simulation mode
+site	TRUE	FALSE	module site number
+stats	TRUE	TRUE	reports some driver internals
+sync	TRUE	TRUE	V:{0,2,3} set HDMI output, V:{DO,SIG,TRG}
+sysclkhz	TRUE	FALSE	system clock rate
+trg	TRUE	TRUE	trg=EXT,dX,edge
+help	FALSE	FALSE	help
+help2	FALSE	FALSE	/usr/share/doc/acq400_help0:help2

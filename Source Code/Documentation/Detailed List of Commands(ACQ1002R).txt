@@ -1,0 +1,81 @@
+Command	Read Access	Write Access	Description
+MODEL	TRUE	TRUE	device model / type
+NCHAN	TRUE	TRUE	number of channels
+SERIAL	TRUE	TRUE	serial number
+SIG:CLK_EXT:COUNT	TRUE	FALSE	external clock count
+SIG:CLK_EXT:FREQ	TRUE	FALSE	external clock frequency
+SIG:CLK_MB:COUNT	TRUE	FALSE	MB clock count
+SIG:CLK_MB:FREQ	TRUE	FALSE	MB clock frequency
+SIG:CLK_S1:COUNT	TRUE	FALSE	site 1 clock count
+SIG:CLK_S1:FREQ	TRUE	FALSE	site 1 clock frequency
+SIG:CLK_S2:COUNT	TRUE	FALSE	site 2 clock count
+SIG:CLK_S2:FREQ	TRUE	FALSE	site 2 clock frequency
+SIG:EVT_EXT:COUNT	TRUE	FALSE	external event count
+SIG:EVT_EXT:FREQ	TRUE	FALSE	external event frequency
+SIG:EVT_MB:COUNT	TRUE	FALSE	not used
+SIG:EVT_MB:FREQ	TRUE	FALSE	not used
+SIG:EVT_S1:COUNT	TRUE	FALSE	site 1 event count
+SIG:EVT_S1:FREQ	TRUE	FALSE	site 1 event frequency
+SIG:EVT_S2:COUNT	TRUE	FALSE	site 2 event count
+SIG:EVT_S2:FREQ	TRUE	FALSE	site 2 event frequency
+SIG:SYN_EXT:COUNT	TRUE	FALSE	external sync count
+SIG:SYN_EXT:FREQ	TRUE	FALSE	external sync frequency
+SIG:SYN_MB:COUNT	TRUE	FALSE	not used
+SIG:SYN_MB:FREQ	TRUE	FALSE	not used
+SIG:SYN_S1:COUNT	TRUE	FALSE	site 1 sync count
+SIG:SYN_S1:FREQ	TRUE	FALSE	site 1 sync frequency
+SIG:SYN_S2:COUNT	TRUE	FALSE	site 2 sync count
+SIG:SYN_S2:FREQ	TRUE	FALSE	site 2 sync frequency
+SIG:TRG_EXT:COUNT	TRUE	FALSE	external trig count
+SIG:TRG_EXT:FREQ	TRUE	FALSE	external trig frequency
+SIG:TRG_MB:COUNT	TRUE	FALSE	not used
+SIG:TRG_MB:FREQ	TRUE	FALSE	not used
+SIG:TRG_S1:COUNT	TRUE	FALSE	site 1 trig count
+SIG:TRG_S1:FREQ	TRUE	FALSE	site 1 trig frequency
+SIG:TRG_S2:COUNT	TRUE	FALSE	site 2 trig count
+SIG:TRG_S2:FREQ	TRUE	FALSE	site 2 trig frequency
+aggregator	TRUE	TRUE	displays aggregator state, do not set
+bufferlen	TRUE	TRUE	kernel buffer length
+data32	TRUE	TRUE	[0|1] data size 16bit/2byte or 32bit/4byte
+evt_src_d0	TRUE	TRUE	V:{0,1,2,3} set Event Bus Source V:{TRG,GPG,HDMI IN, CELF}
+evt_src_d1	TRUE	TRUE	V:{0,1,2,3} set Event Bus Source V:{TRG,GPG,HDMI IN, CELF}
+evt_src_d2	TRUE	TRUE	V:{0,1,2,3} set Event Bus Source V:{TRG,GPG,HDMI IN, CELF}
+evt_src_d3	TRUE	TRUE	V:{0,1,2,3} set Event Bus Source V:{TRG,GPG,HDMI IN, CELF}
+evt_src_d4	TRUE	TRUE	V:{0,1,2,3} set Event Bus Source V:{TRG,GPG,HDMI IN, CELF}
+evt_src_d5	TRUE	TRUE	V:{0,1,2,3} set Event Bus Source V:{TRG,GPG,HDMI IN, CELF}
+evt_src_d6	TRUE	TRUE	V:{0,1,2,3} set Event Bus Source V:{TRG,GPG,HDMI IN, CELF}
+evt_src_d7	TRUE	TRUE	V:{0,1,2,3} set Event Bus Source V:{TRG,GPG,HDMI IN, CELF}
+gpg_clk	TRUE	TRUE	configure Gate Pulse Generator clock source
+gpg_enable	TRUE	TRUE	enable GPG
+gpg_mode	TRUE	TRUE	set GPG mode One Shot | Loop | Loop/Wait
+gpg_sync	TRUE	TRUE	/usr/share/doc/acq400_help0:gpg_sync EXT,dx,RISING  configure GPG sync with (sample) clock source
+gpg_trg	TRUE	TRUE	configure GPG start trigger source
+mb_clk	TRUE	TRUE	[FINKHz FOUTKHz]
+run0	TRUE	TRUE	aggregate from sites
+shot	TRUE	TRUE	shot number 
+sig_src_route_clk_d0	TRUE	TRUE	V:{0,1,2} set Signal Source routing V:{Ext,HDMI,CELF}
+sig_src_route_clk_d1	TRUE	TRUE	V:{0,1,2} set Signal Source routing V:{Ext,HDMI,CELF}
+sig_src_route_sync_d0	TRUE	TRUE	V:{0,1,2} set Signal Source routing V:{Ext,HDMI,CELF}
+sig_src_route_sync_d1	TRUE	TRUE	V:{0,1,2} set Signal Source routing V:{Ext,HDMI,CELF}
+sig_src_route_trg_d0	TRUE	TRUE	V:{0,1,2} set Signal Source routing V:{Ext,HDMI,CELF}
+sig_src_route_trg_d1	TRUE	TRUE	V:{0,1,2} set Signal Source routing V:{Ext,HDMI,CELF}
+soft_trigger	TRUE	TRUE	
+spad	TRUE	TRUE	[EN[,LEN,DIX]] scratchpad EN:{0,1:8 entry, 2:frame}, DIX:{0,1:DI4,2:DI32}
+spad0	TRUE	TRUE	[0x12345678] scratchpad 0 entry (sample count: do not set)
+spad1	TRUE	TRUE	[0x12345678] scratchpad 1 entry
+spad2	TRUE	TRUE	[0x12345678] scratchpad 2 entry
+spad3	TRUE	TRUE	[0x12345678] scratchpad 3 entry
+spad4	TRUE	TRUE	[0x12345678] scratchpad 4 entry
+spad5	TRUE	TRUE	[0x12345678] scratchpad 5 entry
+spad6	TRUE	TRUE	[0x12345678] scratchpad 6 entry
+spad7	TRUE	TRUE	[0x12345678] scratchpad 7 entry
+stats	TRUE	FALSE	reports some driver internals
+sync_out_src_clk	TRUE	TRUE	V:{0,2,3} set HDMI output, V:{DO,SIG,TRG}
+sync_out_src_gpio	TRUE	TRUE	V:{0,2,3} set HDMI output, V:{DO,SIG,TRG}
+sync_out_src_gpio_dx	TRUE	TRUE	{0..7} set HDMI output source line
+sync_out_src_sync	TRUE	TRUE	V:{0,2,3} set HDMI output, V:{DO,SIG,TRG}
+sync_out_src_sync_dx	TRUE	TRUE	{0..7} set HDMI output source line
+sync_out_src_trg	TRUE	TRUE	V:{0,2,3} set HDMI output, V:{DO,SIG,TRG}
+sync_out_src_trg_dx	TRUE	TRUE	{0..7} set HDMI output source line
+help	FALSE	FALSE	help
+help2	FALSE	FALSE	/usr/share/doc/acq400_help0:help2
