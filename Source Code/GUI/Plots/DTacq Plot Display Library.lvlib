@@ -26,6 +26,7 @@ It retrieves data from shared variables, and displays that data on plots and tab
 		<Item Name="XY Plot - Y Scale - Marker Width--Const.vi" Type="VI" URL="../SubVIs/XY Plot - Y Scale - Marker Width--Const.vi"/>
 		<Item Name="XY Plot - Y Scale - Name Label Position Top--Const.vi" Type="VI" URL="../SubVIs/XY Plot - Y Scale - Name Label Position Top--Const.vi"/>
 		<Item Name="XY Plot - Plot Area Width--Const.vi" Type="VI" URL="../SubVIs/XY Plot - Plot Area Width--Const.vi"/>
+		<Item Name="XY Plot - Y Scale - Position - Left--Const.vi" Type="VI" URL="../SubVIs/XY Plot - Y Scale - Position - Left--Const.vi"/>
 		<Item Name="Configuration Error Message - Text--Const.vi" Type="VI" URL="../SubVIs/Configuration Error Message - Text--Const.vi"/>
 		<Item Name="Confirmation Message - Text--Const.vi" Type="VI" URL="../SubVIs/Confirmation Message - Text--Const.vi"/>
 		<Item Name="Coloured Column Number--Const.vi" Type="VI" URL="../SubVIs/Coloured Column Number--Const.vi"/>
