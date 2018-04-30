@@ -29,6 +29,7 @@
 			<Item Name="Configuration - INI Path-Default--Const.vi" Type="VI" URL="../SubVIs/Configuration - INI Path-Default--Const.vi"/>
 		</Item>
 		<Item Name="Numeric Constants" Type="Folder">
+			<Item Name="Status Monitor Port Number--Const.vi" Type="VI" URL="../SubVIs/Status Monitor Port Number--Const.vi"/>
 			<Item Name="Timeout for Help Command-Default--Const.vi" Type="VI" URL="../SubVIs/Timeout for Help Command-Default--Const.vi"/>
 			<Item Name="Timeout for Help2 Command-Default--Const.vi" Type="VI" URL="../SubVIs/Timeout for Help2 Command-Default--Const.vi"/>
 		</Item>
