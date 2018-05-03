@@ -32,6 +32,7 @@ It retrieves data from shared variables, and displays that data on plots and tab
 		<Item Name="Coloured Column Number--Const.vi" Type="VI" URL="../SubVIs/Coloured Column Number--Const.vi"/>
 		<Item Name="Settings Path - Default--Const.vi" Type="VI" URL="../SubVIs/Settings Path - Default--Const.vi"/>
 		<Item Name="Tab Visibilities - Default--Const.vi" Type="VI" URL="../SubVIs/Tab Visibilities - Default--Const.vi"/>
+		<Item Name="Number of Plots Per Tab - Maximum--Const.vi" Type="VI" URL="../SubVIs/Number of Plots Per Tab - Maximum--Const.vi"/>
 		<Item Name="Number of Tabs - Maximum--Const.vi" Type="VI" URL="../SubVIs/Number of Tabs - Maximum--Const.vi"/>
 		<Item Name="Number of Tabs - Minimum--Const.vi" Type="VI" URL="../SubVIs/Number of Tabs - Minimum--Const.vi"/>
 		<Item Name="Front Panel - Title--Const.vi" Type="VI" URL="../SubVIs/Front Panel - Title--Const.vi"/>
