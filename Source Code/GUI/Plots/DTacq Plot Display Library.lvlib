@@ -82,6 +82,8 @@ It retrieves data from shared variables, and displays that data on plots and tab
 		<Item Name="Shared Variables" Type="Folder">
 			<Item Name="Open Connection to Shared Variables.vi" Type="VI" URL="../SubVIs/Open Connection to Shared Variables.vi"/>
 			<Item Name="Read Data from Network Shared Variables.vi" Type="VI" URL="../SubVIs/Read Data from Network Shared Variables.vi"/>
+			<Item Name="Clear Plots Without Assigned Variables.vi" Type="VI" URL="../SubVIs/Clear Plots Without Assigned Variables.vi"/>
+			<Item Name="Populate Plot Data Array with Shared Variable Data.vi" Type="VI" URL="../SubVIs/Populate Plot Data Array with Shared Variable Data.vi"/>
 			<Item Name="Close Connection to Shared Variables.vi" Type="VI" URL="../SubVIs/Close Connection to Shared Variables.vi"/>
 		</Item>
 		<Item Name="Plot Data - Configure Plot GUI.vi" Type="VI" URL="../Plot Data - Configure Plot GUI.vi"/>
