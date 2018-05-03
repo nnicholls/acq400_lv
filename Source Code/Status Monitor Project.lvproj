@@ -3,10 +3,8 @@
 	<Property Name="varPersistentID:{003EDBCD-DF4D-412A-8BC5-02813553A077}" Type="Ref">/My Computer/Shared Variables Container.lvlib/ACQ1001_105.ini</Property>
 	<Property Name="varPersistentID:{18807228-B288-4D9A-A16E-B9D3A5609747}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_16</Property>
 	<Property Name="varPersistentID:{19B42E7E-EDB0-46DB-914A-3E649EDA7D63}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_05</Property>
-	<Property Name="varPersistentID:{20045FE4-7BCB-4024-B9A2-435D84A0258A}" Type="Ref">/My Computer/Shared Variables Container.lvlib/ACQ1001_301.ini</Property>
 	<Property Name="varPersistentID:{2EF90FE3-A15D-4660-94FB-E4FC9372A8C2}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_04</Property>
 	<Property Name="varPersistentID:{30E8AC1E-70C3-4A3B-AB71-FC3309258538}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_12</Property>
-	<Property Name="varPersistentID:{6156C3F3-1CF8-4479-AC48-4F3A65183EAF}" Type="Ref">/My Computer/Shared Variables Container.lvlib/C:\Users\sean\Documents\Workspace\LabVIEW\Testing\acq400_lv\Source Code\Communications\Configuration\ACQ1001_105.ini</Property>
 	<Property Name="varPersistentID:{6BFD3D59-1F0C-42C4-98EE-9852883AE6D7}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_13</Property>
 	<Property Name="varPersistentID:{71A09664-B186-4891-B866-F39FA21656E5}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_03</Property>
 	<Property Name="varPersistentID:{7CE95033-1E7B-4B61-A3DB-3B5C6E5AE2A1}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_10</Property>
