@@ -37,15 +37,15 @@ This library is dependant upon;
 		</Item>
 		<Item Name="Transient Capture" Type="Folder">
 			<Item Name="Initialise Transient Mode.vi" Type="VI" URL="../SubVIs/Initialise Transient Mode.vi"/>
-			<Item Name="Arm and Fire Transient.vi" Type="VI" URL="../SubVIs/Arm and Fire Transient.vi"/>
+			<Item Name="Arm and Set Trigger - Transient.vi" Type="VI" URL="../SubVIs/Arm and Set Trigger - Transient.vi"/>
+			<Item Name="Fire Transient.vi" Type="VI" URL="../SubVIs/Fire Transient.vi"/>
 			<Item Name="Read Transient Data and Write to Shared Variable.vi" Type="VI" URL="../SubVIs/Read Transient Data and Write to Shared Variable.vi"/>
 			<Item Name="Close Transient Mode.vi" Type="VI" URL="../SubVIs/Close Transient Mode.vi"/>
 		</Item>
-		<Item Name="Status Monitor" Type="Folder"/>
 		<Item Name="API - Hardware in the Loop - Run Single Shot.vi" Type="VI" URL="../SubVIs/API - Hardware in the Loop - Run Single Shot.vi"/>
 		<Item Name="API - Continuous Capture - Capture Single Buffer.vi" Type="VI" URL="../SubVIs/API - Continuous Capture - Capture Single Buffer.vi"/>
 		<Item Name="API - Continuous Capture - Capture Continuously.vi" Type="VI" URL="../SubVIs/API - Continuous Capture - Capture Continuously.vi"/>
-		<Item Name="API - Transient - Capture Single Transient.vi" Type="VI" URL="../SubVIs/API - Transient - Capture Single Transient.vi"/>
+		<Item Name="API - Transient - Capture Transients.vi" Type="VI" URL="../SubVIs/API - Transient - Capture Transients.vi"/>
 		<Item Name="API - Polymorphic - Transient Capture.vi" Type="VI" URL="../SubVIs/API - Polymorphic - Transient Capture.vi"/>
 		<Item Name="API - Polymorphic - Continuous Capture.vi" Type="VI" URL="../SubVIs/API - Polymorphic - Continuous Capture.vi"/>
 		<Item Name="API - Polymorphic - Hardware in the Loop.vi" Type="VI" URL="../SubVIs/API - Polymorphic - Hardware in the Loop.vi"/>
