@@ -36,11 +36,13 @@ This library is dependant upon;
 			<Item Name="Close Continuous Mode.vi" Type="VI" URL="../SubVIs/Close Continuous Mode.vi"/>
 		</Item>
 		<Item Name="Transient Capture" Type="Folder">
+			<Item Name="Fire Button Control.ctl" Type="VI" URL="../SubVIs/Fire Button Control.ctl"/>
 			<Item Name="Initialise Transient Mode.vi" Type="VI" URL="../SubVIs/Initialise Transient Mode.vi"/>
 			<Item Name="Arm and Set Trigger - Transient.vi" Type="VI" URL="../SubVIs/Arm and Set Trigger - Transient.vi"/>
 			<Item Name="Fire Transient.vi" Type="VI" URL="../SubVIs/Fire Transient.vi"/>
 			<Item Name="Read Transient Data and Write to Shared Variable.vi" Type="VI" URL="../SubVIs/Read Transient Data and Write to Shared Variable.vi"/>
 			<Item Name="Close Transient Mode.vi" Type="VI" URL="../SubVIs/Close Transient Mode.vi"/>
+			<Item Name="Wait for User to Soft Trigger.vi" Type="VI" URL="../SubVIs/Wait for User to Soft Trigger.vi"/>
 		</Item>
 		<Item Name="API - Hardware in the Loop - Run Single Shot.vi" Type="VI" URL="../SubVIs/API - Hardware in the Loop - Run Single Shot.vi"/>
 		<Item Name="API - Continuous Capture - Capture Single Buffer.vi" Type="VI" URL="../SubVIs/API - Continuous Capture - Capture Single Buffer.vi"/>
