@@ -9,6 +9,7 @@
 	<Property Name="varPersistentID:{8DE8FD1A-79AF-4A5E-95B4-E931D6E0A365}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_02</Property>
 	<Property Name="varPersistentID:{97C92E68-DB55-4F46-982F-D1414D151178}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_09</Property>
 	<Property Name="varPersistentID:{9B3BADB2-B40E-44A9-89F5-A0DEEAA875DA}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_03</Property>
+	<Property Name="varPersistentID:{9F5AFBC8-9539-4A88-94C4-C44EBE272050}" Type="Ref">/My Computer/Shared Variables Container.lvlib/ACQ1001_084_Status</Property>
 	<Property Name="varPersistentID:{BD054F0D-58FC-4FC8-AF70-BF351C99E78C}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_15</Property>
 	<Property Name="varPersistentID:{C07B3D30-BF30-4AB9-A98F-44A3CDB653EA}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_12</Property>
 	<Property Name="varPersistentID:{C0CE5E9C-A687-4915-AEC4-6A9F3DAE1DE0}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_04</Property>
@@ -86,6 +87,7 @@
 				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
 				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
