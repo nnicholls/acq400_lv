@@ -8,16 +8,16 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
-		<Item Name="Get Shared Status Variable References and Descriptions.vi" Type="VI" URL="../Get Shared Status Variable References and Descriptions.vi"/>
 		<Item Name="Status Monitor (Multi Unit - Fast Parallel Read).vi" Type="VI" URL="../Status Monitor (Multi Unit - Fast Parallel Read).vi"/>
 		<Item Name="Status Monitor (Multi Unit - Slow Sequential Read).vi" Type="VI" URL="../Status Monitor (Multi Unit - Slow Sequential Read).vi"/>
 		<Item Name="Status Monitor (Single Unit).vi" Type="VI" URL="../Status Monitor (Single Unit).vi"/>
+		<Item Name="Status Monitor - Reader - Graphical User Interface.vi" Type="VI" URL="../Status Monitor - Reader - Graphical User Interface.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Get Shared Status Variable References and Descriptions.vi" Type="VI" URL="../Get Shared Status Variable References and Descriptions.vi"/>
 		<Item Name="Init Shared Variable.vi" Type="VI" URL="../Init Shared Variable.vi"/>
 		<Item Name="Initialise Status Monitor Connection.vi" Type="VI" URL="../Initialise Status Monitor Connection.vi"/>
 		<Item Name="Load INI and INIT.vi" Type="VI" URL="../Load INI and INIT.vi"/>
 		<Item Name="Read Status Message.vi" Type="VI" URL="../Read Status Message.vi"/>
 	</Item>
-	<Item Name="Status Monitor - Reader - Graphical User Interface.vi" Type="VI" URL="../Status Monitor - Reader - Graphical User Interface.vi"/>
 </Library>

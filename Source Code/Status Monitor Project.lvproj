@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="17008000">
+	<Property Name="varPersistentID:{056D876C-303E-471C-B725-44BF4A467E6E}" Type="Ref">/My Computer/Shared Variables Container.lvlib/ACQ1001_084_Status</Property>
+	<Property Name="varPersistentID:{13343411-723B-4FE7-9D05-678ACA9E6526}" Type="Ref">/My Computer/Shared Variables Container.lvlib/_Status</Property>
 	<Property Name="varPersistentID:{18807228-B288-4D9A-A16E-B9D3A5609747}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_16</Property>
 	<Property Name="varPersistentID:{19B42E7E-EDB0-46DB-914A-3E649EDA7D63}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_05</Property>
 	<Property Name="varPersistentID:{2EF90FE3-A15D-4660-94FB-E4FC9372A8C2}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier1Module1-ACQ425ELF-Channel_04</Property>
