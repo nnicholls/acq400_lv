@@ -66,4 +66,5 @@ This library is dependant upon;
 		<Item Name="FGV Operaions--Enum.ctl" Type="VI" URL="../SubVIs/FGV Operaions--Enum.ctl"/>
 		<Item Name="Driver Global Settings--Typedef.ctl" Type="VI" URL="../SubVIs/Driver Global Settings--Typedef.ctl"/>
 	</Item>
+	<Item Name="Open All Shared Variables for Write Access.vi" Type="VI" URL="../SubVIs/Open All Shared Variables for Write Access.vi"/>
 </Library>

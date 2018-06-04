@@ -84,6 +84,8 @@
 			<Item Name="Configuration - Load Module Settings.vi" Type="VI" URL="../SubVIs/Configuration - Load Module Settings.vi"/>
 			<Item Name="Configuration - Determine Device Type.vi" Type="VI" URL="../SubVIs/Configuration - Determine Device Type.vi"/>
 			<Item Name="Configuration - Determine Device Type String.vi" Type="VI" URL="../SubVIs/Configuration - Determine Device Type String.vi"/>
+			<Item Name="Configuration - Select First AI Module.vi" Type="VI" URL="../SubVIs/Configuration - Select First AI Module.vi"/>
+			<Item Name="Configuration - Get All AI Modules.vi" Type="VI" URL="../SubVIs/Configuration - Get All AI Modules.vi"/>
 		</Item>
 		<Item Name="Debugging Tools" Type="Folder">
 			<Item Name="Debug - Mid Level - Logging Tool.vi" Type="VI" URL="../SubVIs/Debug - Mid Level - Logging Tool.vi"/>
