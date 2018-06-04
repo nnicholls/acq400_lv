@@ -17,6 +17,8 @@
 		<Item Name="Combined Status and Transient" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
 				<Item Name="Get Path to Status Monitor Subpanel.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Status Monitor Subpanel.vi"/>
+				<Item Name="Device Status and Index.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Device Status and Index.ctl"/>
+				<Item Name="Multi UUT GUI Commands--Enum.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Multi UUT GUI Commands--Enum.ctl"/>
 				<Item Name="Get Path to Transient Demo VI.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Transient Demo VI.vi"/>
 				<Item Name="Load Multiple INI Files and Poll for Status Messages.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Load Multiple INI Files and Poll for Status Messages.vi"/>
 			</Item>
