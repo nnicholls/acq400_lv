@@ -20,4 +20,7 @@
 		<Item Name="Load INI and INIT.vi" Type="VI" URL="../Load INI and INIT.vi"/>
 		<Item Name="Read Status Message.vi" Type="VI" URL="../Read Status Message.vi"/>
 	</Item>
+	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Unit Under Test Status--Cluster.ctl" Type="VI" URL="../Typedefs/Unit Under Test Status--Cluster.ctl"/>
+	</Item>
 </Library>
