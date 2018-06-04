@@ -1,21 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="17008000">
-	<Property Name="varPersistentID:{022B9CED-059F-452C-8EA5-03277F1A1886}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_02</Property>
-	<Property Name="varPersistentID:{04D4BA6A-5926-4B04-BAB5-C2A7A4BD794E}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_12</Property>
-	<Property Name="varPersistentID:{06AFE862-B619-4315-8E59-F45E4FFA1C7C}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_04</Property>
-	<Property Name="varPersistentID:{0A33B29B-6700-4CE1-B95F-67AD49ADA76D}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_01</Property>
-	<Property Name="varPersistentID:{0CD713BA-73FE-4AC8-8A6B-F88A75E18BE1}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_03</Property>
-	<Property Name="varPersistentID:{16816688-1B30-4B2D-B5EC-1F797DBC319F}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_10</Property>
-	<Property Name="varPersistentID:{220DF864-7230-482C-AB08-3297AE074AD7}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_16</Property>
-	<Property Name="varPersistentID:{4213264E-86B8-47CB-8B22-A72A21F372ED}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_13</Property>
-	<Property Name="varPersistentID:{6645BB5F-8891-4EFA-9AAB-A69E7128AF48}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_11</Property>
-	<Property Name="varPersistentID:{99A53379-92D3-4E53-A94A-6B02E697116D}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_15</Property>
-	<Property Name="varPersistentID:{A39663A7-F010-47C9-A945-8055D7EB4D2D}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_05</Property>
-	<Property Name="varPersistentID:{A5D80D5E-59D1-4D8B-8E24-E5AAC56EEECA}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_08</Property>
-	<Property Name="varPersistentID:{B2E60929-016B-4AED-A6B0-0D1FE1B3376D}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_14</Property>
-	<Property Name="varPersistentID:{C2F7F568-0A02-4DD9-9E17-DE39CFE517F5}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_06</Property>
-	<Property Name="varPersistentID:{D94661C7-297C-4767-BC58-FCE2084CFB7E}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_09</Property>
-	<Property Name="varPersistentID:{F9BC1360-EA43-4C00-A5A3-6BBBDBE43D90}" Type="Ref">/My Computer/Shared Variables Container.lvlib/Carrier2Module1-ACQ425ELF-Channel_07</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
