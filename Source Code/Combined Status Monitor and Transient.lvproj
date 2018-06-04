@@ -31,7 +31,6 @@
 		<Item Name="Communications Console Library.lvlib" Type="Library" URL="../GUI/Consoles/Communications Console Library.lvlib"/>
 		<Item Name="Communications Library.lvlib" Type="Library" URL="../Communications/Communications Library.lvlib"/>
 		<Item Name="Status Monitor Library.lvlib" Type="Library" URL="../Status Monitor/Status Monitor Library.lvlib"/>
-		<Item Name="Untitled 5.vi" Type="VI" URL="../Communications/Configuration/Untitled 5.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
