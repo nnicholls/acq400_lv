@@ -17,6 +17,7 @@
 		</Item>
 		<Item Name="Communications Library.lvlib" Type="Library" URL="../Communications/Communications Library.lvlib"/>
 		<Item Name="Communications Console Library.lvlib" Type="Library" URL="../GUI/Consoles/Communications Console Library.lvlib"/>
+		<Item Name="Demo - Transient Capture (Multiple Shots)_for_sub_panel.vi" Type="VI" URL="../Transient Capture (Advanced Demo)/Demo - Transient Capture (Multiple Shots)_for_sub_panel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>

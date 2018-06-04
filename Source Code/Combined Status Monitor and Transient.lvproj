@@ -11,10 +11,12 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Combined Status and Transient" Type="Folder">
-			<Item Name="Combine Status Monitor and Transient Capture.vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture.vi"/>
+			<Item Name="Combine Status Monitor and Transient Capture (Multiple UUTs).vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture (Multiple UUTs).vi"/>
+			<Item Name="Combine Status Monitor and Transient Capture (Single UUT).vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture (Single UUT).vi"/>
 		</Item>
 		<Item Name="Transient Capture (Advanced Demo)" Type="Folder">
 			<Item Name="Demo - Transient Capture (Multiple Shots).vi" Type="VI" URL="../Transient Capture (Advanced Demo)/Demo - Transient Capture (Multiple Shots).vi"/>
+			<Item Name="Demo - Transient Capture (Multiple Shots)_for_sub_panel.vi" Type="VI" URL="../Transient Capture (Advanced Demo)/Demo - Transient Capture (Multiple Shots)_for_sub_panel.vi"/>
 			<Item Name="Demo - Transient Capture.vi" Type="VI" URL="../Transient Capture (Advanced Demo)/Demo - Transient Capture.vi"/>
 		</Item>
 		<Item Name="Communications Console Library.lvlib" Type="Library" URL="../GUI/Consoles/Communications Console Library.lvlib"/>
