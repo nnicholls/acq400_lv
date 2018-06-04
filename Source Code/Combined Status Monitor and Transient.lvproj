@@ -18,6 +18,7 @@
 			<Item Name="SubVIs" Type="Folder">
 				<Item Name="Get Path to Status Monitor Subpanel.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Status Monitor Subpanel.vi"/>
 				<Item Name="Get Path to Transient Demo VI.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Transient Demo VI.vi"/>
+				<Item Name="Load Multiple INI Files and Poll for Status Messages.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Load Multiple INI Files and Poll for Status Messages.vi"/>
 			</Item>
 			<Item Name="Combine Status Monitor and Transient Capture (Multiple UUTs).vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture (Multiple UUTs).vi"/>
 			<Item Name="Combine Status Monitor and Transient Capture (Single UUT).vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture (Single UUT).vi"/>
