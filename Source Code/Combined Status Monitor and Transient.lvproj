@@ -17,10 +17,14 @@
 		<Item Name="Combined Status and Transient" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
 				<Item Name="Get Path to Status Monitor Subpanel.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Status Monitor Subpanel.vi"/>
-				<Item Name="Device Status and Index.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Device Status and Index.ctl"/>
-				<Item Name="Multi UUT GUI Commands--Enum.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Multi UUT GUI Commands--Enum.ctl"/>
+				<Item Name="Start Asynchronous Calls to Array of Status Monitors.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Start Asynchronous Calls to Array of Status Monitors.vi"/>
+				<Item Name="Start Asynchronous Calls to Array of Transient Captures.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Start Asynchronous Calls to Array of Transient Captures.vi"/>
 				<Item Name="Get Path to Transient Demo VI.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Transient Demo VI.vi"/>
 				<Item Name="Load Multiple INI Files and Poll for Status Messages.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Load Multiple INI Files and Poll for Status Messages.vi"/>
+			</Item>
+			<Item Name="TypeDefs" Type="Folder">
+				<Item Name="Device Status and Index--Cluster.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Device Status and Index--Cluster.ctl"/>
+				<Item Name="Multi UUT GUI Commands--Enum.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Multi UUT GUI Commands--Enum.ctl"/>
 			</Item>
 			<Item Name="Combine Status Monitor and Transient Capture (Multiple UUTs).vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture (Multiple UUTs).vi"/>
 			<Item Name="Combine Status Monitor and Transient Capture (Single UUT).vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture (Single UUT).vi"/>
@@ -34,6 +38,7 @@
 		<Item Name="Communications Console Library.lvlib" Type="Library" URL="../GUI/Consoles/Communications Console Library.lvlib"/>
 		<Item Name="Communications Library.lvlib" Type="Library" URL="../Communications/Communications Library.lvlib"/>
 		<Item Name="Status Monitor Library.lvlib" Type="Library" URL="../Status Monitor/Status Monitor Library.lvlib"/>
+		<Item Name="Run - Array of Status Monitors With Transient Captures.vi" Type="VI" URL="../Combined Status and Transient/Run - Array of Status Monitors With Transient Captures.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
