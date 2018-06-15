@@ -36,7 +36,6 @@
 		<Item Name="Global Settings" Type="Folder">
 			<Item Name="Debug - TCP - File Path--FGV.vi" Type="VI" URL="../SubVIs/Debug - TCP - File Path--FGV.vi"/>
 			<Item Name="Debug - Verbose - File Path--FGV.vi" Type="VI" URL="../SubVIs/Debug - Verbose - File Path--FGV.vi"/>
-			<Item Name="Configuration--FGV.vi" Type="VI" URL="../SubVIs/Configuration--FGV.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
