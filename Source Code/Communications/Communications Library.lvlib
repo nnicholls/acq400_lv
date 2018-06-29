@@ -107,6 +107,7 @@
 			<Item Name="Transient Capture - Configure Settings.vi" Type="VI" URL="../SubVIs/Transient Capture - Configure Settings.vi"/>
 			<Item Name="Transient Capture - Arm Shot.vi" Type="VI" URL="../SubVIs/Transient Capture - Arm Shot.vi"/>
 			<Item Name="Transient Capture - Fire Shot and Wait.vi" Type="VI" URL="../SubVIs/Transient Capture - Fire Shot and Wait.vi"/>
+			<Item Name="Status - Querry Carrier.vi" Type="VI" URL="../SubVIs/Status - Querry Carrier.vi"/>
 			<Item Name="Status - Querry Carrier and AO Status.vi" Type="VI" URL="../SubVIs/Status - Querry Carrier and AO Status.vi"/>
 			<Item Name="DTACQ - Download Data Block (Demultiplexed - Signed 16 Bit).vi" Type="VI" URL="../SubVIs/DTACQ - Download Data Block (Demultiplexed - Signed 16 Bit).vi"/>
 			<Item Name="DTACQ - Download Data Block (Demultiplexed - Signed 32 Bit).vi" Type="VI" URL="../SubVIs/DTACQ - Download Data Block (Demultiplexed - Signed 32 Bit).vi"/>
